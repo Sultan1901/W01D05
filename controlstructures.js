@@ -15,7 +15,7 @@ if (num2 > num1) {
 //let i = unm1
 //for ( let i = 0; i > 0 ; i--)
 //{ i+= console.log(i);
-//}
+//} ( **** i try for this code but cant run seccessfuly )
 
 let ammount = 9;
 if (ammount <= 0) {
