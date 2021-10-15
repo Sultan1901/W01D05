@@ -48,3 +48,10 @@ for (startRange; startRange <= endRange; startRange++) {
 for (let i = 1; i <= 5; i++) {
   console.log("*".repeat(i));
 }
+
+// ===> optional
+
+ for (let arr = [5 , 10] ; arr <= 100 ; arr++) {
+  console.log(arr * 2)
+
+}
